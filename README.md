@@ -1,0 +1,1 @@
+ARFoundation base scene that uses LWRP & DOTS.
