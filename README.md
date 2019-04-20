@@ -1,4 +1,4 @@
-ARFoundation base scene that uses LWRP & DOTS.
+ARFoundation base scene that uses LWRP.
 
 ### Package/Software versions:
 * Unity: 2019.1.0f2
